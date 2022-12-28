@@ -25,12 +25,13 @@ A MERN PWA that allows a user to search for cocktails by name or ingredients and
 * [Questions](#questions)
 
 ## User Story
+
 Have you ever been out with friends and look over at the next table, and see that colourful and tasty drink?  
-Or have you ever ordered a cocktail, and the bartender doesn’t know how to make it? 
+Or have you ever ordered a cocktail, and the bartender doesn’t know how to make it?  
 We have the solution! Drinkstagram is a convenient and user friendly application right at your fingertips.
 
 ## Technologies Used
- 			
+
 ![Language](https://img.shields.io/badge/MongoDB-green.svg "Language Badge")
 ![Language](https://img.shields.io/badge/Express-blue.svg "Language Badge")
 ![Language](https://img.shields.io/badge/REACT-yellow.svg "Language Badge")
@@ -72,7 +73,7 @@ npm start:dev
 To use the app please view the following link: https://nameless-spire-26834.herokuapp.com/
 
 ## License
-    
+
 Licensed for use with the MIT license.
 
 ## Contributing
@@ -81,24 +82,9 @@ Contributions are welcomed, please fork to your repository!
 
 ## Questions
 
-Contact us via our github profile or email addresses (links below)
-
-### Tyler Ladas
-
-- Github Username: [TylerLadas](https://github.com/TylerLadas)
-- Email address: TylerLadas@hotmail.com
+Contact me via my github profile or email addresses (links below)
 
 ### Scott Skinn
 
 - Github Username: [scottskinn](https://github.com/scottskinn)
 - Email address: scottskinn@hotmail.com
-
-### Joanne Hickey
-
-- Github Username: [jlhickey](https://github.com/jlhickey)
-- Email address: jlhickey@me.com
-
-### Yussef Rafat
-
-- Github Username: [yussefrafat](https://github.com/yussefrafat)
-- Email address: yussefrafat5908@gmail.com
